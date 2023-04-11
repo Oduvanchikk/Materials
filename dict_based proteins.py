@@ -33,7 +33,7 @@ def collect(fr, f_ent):
         start = file.find(folder)
         pmid = file[start+len(folder)+1:-4]
         lines = f.readlines()
-        sentences = nltk.sent_tokenize(' '.join(lines[:-1]))
+        sentences = nltk.sent_tokenize(' '.join(lines))
         for sent in sentences:
             i=0
             while i<len(ents):
