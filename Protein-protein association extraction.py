@@ -21,7 +21,7 @@ rule_1p2dir21 = ['activated by', 'cofactors', 'cofactor', 'down-regulated by', '
                 'is a substrate for', 'mediated by', 'mediation by', 'modulated by', 'modulation by', 'taret of',
                 'targets of', 'target for', 'targets for', 'transactivation through', 'responce to', 'in responce to', 'mimiced',
                 'promoted', 'targteted']
-rule_1p2dirnm = ['-', '/', 'attach', 'attaches', 'attachment ', 'attached', 'bind', 'bind to', 'binds',
+rule_1p2dirnm = ['attach', 'attaches', 'attachment ', 'attached', 'bind', 'bind to', 'binds',
                 'binds to', 'interacts with', 'interact with', 'interacting with', 'interacted with',
                 'associated with', 'associate', 'associates', 'associating']
 rule_p12dir21 = ['activation of ', 'down-regulation of', 'downregulation of', 'up-regulation of', 'upregulation of',
