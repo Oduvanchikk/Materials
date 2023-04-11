@@ -18,7 +18,7 @@ def collect(fr):
         f = codecs.open(file, 'r', encoding = 'utf-8')
         lines = f.readlines()
         f.close()
-        sentences = nltk.sent_tokenize(' '.join(lines[:-1]))
+        sentences = nltk.sent_tokenize(' '.join(lines))
         for sent in sentences:
             i=0
             while i<len(entities):
