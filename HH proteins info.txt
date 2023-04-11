@@ -1,0 +1,49 @@
+Q13635	PTC1_HUMAN	Protein patched homolog 1; PTC; PTC1		PTCH1; PTCH
+Q9Y6C5	PTC2_HUMAN	Protein patched homolog 2; PTC2		PTCH2; UNQ560/PRO1121/PRO57079
+Q8N6U8	GP161_HUMAN	G-protein coupled receptor 161	G-protein coupled receptor RE2	GPR161
+Q99835	SMO_HUMAN	Smoothened homolog; SMO	Protein Gx	SMO; SMOH
+Q2M1P5	KIF7_HUMAN	Kinesin-like protein KIF7		KIF7; UNQ340/PRO539
+Q9UMX1	SUFU_HUMAN	Suppressor of fused homolog; SUFUH		SUFU; UNQ650/PRO1280
+P08151	GLI1_HUMAN	Zinc finger protein GLI1	Oncogene GLI; Glioma-associated oncogene	GLI1; GLI
+P10070	GLI2_HUMAN	Zinc finger protein GLI2	GLI family zinc finger protein 2; Tax helper protein	GLI2; THP
+P10071	GLI3_HUMAN	Transcriptional activator GLI3	GLI3-190; GLI3 form of 190 kDa; Transcriptional repressor GLI3R; GLI3 C-terminally truncated form; GLI3 full-length protein; GLI3-83; GLI3 form of 83 kDa; GLI3FL	GLI3
+P17612	KAPCA_HUMAN	cAMP-dependent protein kinase catalytic subunit alpha; PKA C-alpha		PRKACA; PKACA
+P22694	KAPCB_HUMAN	cAMP-dependent protein kinase catalytic subunit beta; PKA C-beta		PRKACB
+P22612	KAPCG_HUMAN	cAMP-dependent protein kinase catalytic subunit gamma; PKA C-gamma		PRKACG
+P48729	KC1A_HUMAN	Casein kinase I isoform alpha; CKI-alpha	CK1	CSNK1A1
+P48730	KC1D_HUMAN	Casein kinase I isoform delta; CKI-delta; CKId	Tau-protein kinase CSNK1D	CSNK1D; HCKID
+P49674	KC1E_HUMAN	Casein kinase I isoform epsilon; CKI-epsilon; CKIe		CSNK1E
+P49841	GSK3B_HUMAN	Glycogen synthase kinase-3 beta; GSK-3 beta	Serine/threonine-protein kinase GSK3B	GSK3B
+Q13616	CUL1_HUMAN	Cullin-1; CUL-1		CUL1
+Q9UKB1	FBW1B_HUMAN	F-box/WD repeat-containing protein 11	F-box/WD repeat-containing protein 1B; HOS; F-box and WD repeats protein beta-TrCP2; Homologous to Slimb protein	FBXW11; BTRCP2; FBW1B; FBXW1B; KIAA0696
+Q96QV1	HHIP_HUMAN	Hedgehog-interacting protein; HHIP; HIP		HHIP; HIP; UNQ5825/PRO19644
+P24385	CCND1_HUMAN	G1/S-specific cyclin-D1	B-cell lymphoma 1 protein; BCL-1; PRAD1 oncogene; BCL-1 oncogene	CCND1; BCL1; PRAD1
+P30279	CCND2_HUMAN	G1/S-specific cyclin-D2		CCND2
+P10415	BCL2_HUMAN	Apoptosis regulator Bcl-2		BCL2
+Q5VTY9	HHAT_HUMAN	Protein-cysteine N-palmitoyltransferase HHAT	Melanoma antigen recognized by T-cells 2; Hedgehog acyltransferase; Skinny hedgehog protein 1; MART-2	HHAT; MART2; SKI1
+Q9HCP6	HHATL_HUMAN	Protein-cysteine N-palmitoyltransferase HHAT-like protein	Glycerol uptake/transporter homolog; Hedgehog acyltransferase-like protein	HHATL; C3orf3; GUP1; KIAA1173
+Q14623	IHH_HUMAN	Indian hedgehog protein; IHH	Indian hedgehog protein N-product; HHG-2	IHH
+O43323	DHH_HUMAN	Desert hedgehog protein; DHH	HHG-3; Desert hedgehog protein N-product	DHH
+Q15465	SHH_HUMAN	Sonic hedgehog protein; SHH	Shh N-terminal processed signaling domains; Sonic hedgehog protein N-product; HHG-1; ShhNC; ShhNp; Shh unprocessed N-terminal signaling and C-terminal autoprocessing domains; ShhN	SHH
+Q96F81	DISP1_HUMAN	Protein dispatched homolog 1		DISP1; DISPA
+Q9NQ36	SCUB2_HUMAN	Signal peptide, CUB and EGF-like domain-containing protein 2	Scube/You; Protein CEGP1	SCUBE2; CEGP1
+P54826	GAS1_HUMAN	Growth arrest-specific protein 1; GAS-1		GAS1
+P98164	LRP2_HUMAN	Low-density lipoprotein receptor-related protein 2; LRP-2	Megalin; gp330; Glycoprotein 330	LRP2
+Q9BWV1	BOC_HUMAN	Brother of CDO; Protein BOC		BOC; UNQ604/PRO1190
+Q4KMG0	CDON_HUMAN	Cell adhesion molecule-related/down-regulated by oncogenes		CDON; CDO
+Q9HAU4	SMUF2_HUMAN	E3 ubiquitin-protein ligase SMURF2; hSMURF2	SMAD ubiquitination regulatory factor 2; SMAD-specific E3 ubiquitin-protein ligase 2; HECT-type E3 ubiquitin transferase SMURF2	SMURF2
+Q9HCE7	SMUF1_HUMAN	E3 ubiquitin-protein ligase SMURF1; hSMURF1	HECT-type E3 ubiquitin transferase SMURF1; SMAD ubiquitination regulatory factor 1; SMAD-specific E3 ubiquitin-protein ligase 1	SMURF1; KIAA1625
+Q9Y496	KIF3A_HUMAN	Kinesin-like protein KIF3A	Microtubule plus end-directed kinesin motor 3A	KIF3A; KIF3
+P32121	ARRB2_HUMAN	Beta-arrestin-2	Arrestin beta-2; Non-visual arrestin-3	ARRB2; ARB2; ARR2
+P49407	ARRB1_HUMAN	Beta-arrestin-1	Arrestin beta-1; Non-visual arrestin-2	ARRB1; ARR1
+Q6IPM2	IQCE_HUMAN	IQ domain-containing protein E		IQCE; KIAA1023
+A8K855	EFCB7_HUMAN	EF-hand calcium-binding domain-containing protein 7		EFCAB7; KIAA1799
+P57679	EVC_HUMAN	EvC complex member EVC	DWF-1; Ellis-van Creveld syndrome protein	EVC
+Q86UK5	LBN_HUMAN	Limbin	Ellis-van Creveld syndrome protein 2; EVC2	EVC2; LBN
+P25098	ARBK1_HUMAN	Beta-adrenergic receptor kinase 1; Beta-ARK-1	G-protein coupled receptor kinase 2	GRK2; ADRBK1; BARK; BARK1
+P35626	ARBK2_HUMAN	Beta-adrenergic receptor kinase 2; Beta-ARK-2	G-protein-coupled receptor kinase 3	GRK3; ADRBK2; BARK2
+Q8NHV5	MOSMO_HUMAN	Modulator of smoothened protein	Attenuator of hedgehog	MOSMO; ATTHOG; C16orf52
+Q7Z7M0	MEGF8_HUMAN	Multiple epidermal growth factor-like domains protein 8; Multiple EGF-like domains protein 8	Epidermal growth factor-like protein 4; EGF-like protein 4	MEGF8; C19orf49; EGFL4; KIAA0817
+O60291	MGRN1_HUMAN 	E3 ubiquitin-protein ligase MGRN1	RING finger protein 156; RING-type E3 ubiquitin transferase MGRN1; Mahogunin RING finger protein 1	MGRN1; KIAA0544; RNF156
+Q13618	CUL3_HUMAN	Cullin-3; CUL-3		CUL3; KIAA0617
+O43791	SPOP_HUMAN	Speckle-type POZ protein	HIB homolog 1; Roadkill homolog 1	SPOP
